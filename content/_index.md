@@ -1,12 +1,12 @@
 ---
 title: "Sofia Scatolin"
 subtitle: "Phd Student"
-description: "This is my personal website."
+description: "I'm a developmental neuroscience PhD student at the University of Zürich. I am fascinated by how children learn in interaction with others. To adress the topic, I use neuroimaging, behavioural measures, and computational models."
 date: 2019-02-18T12:27:33-06:00
 images:
-  - img/unicorn-megaphone.png
+  - img/mpi.jpg
 image_left: false
-text_align_left: false
+text_align_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about
