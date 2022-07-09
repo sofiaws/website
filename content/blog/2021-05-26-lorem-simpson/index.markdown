@@ -12,7 +12,6 @@ categories:
 layout: single
 ---
 
-{{< here >}}
 
 ## Some penguins to start
 
@@ -22,24 +21,56 @@ library(tidyverse)
 ```
 
 ```
-## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.0 ──
+## Warning: package 'tidyverse' was built under R version 4.0.5
 ```
 
 ```
-## ✓ ggplot2 3.3.3     ✓ purrr   0.3.4
-## ✓ tibble  3.1.2     ✓ dplyr   1.0.5
-## ✓ tidyr   1.1.3     ✓ stringr 1.4.0
-## ✓ readr   1.4.0     ✓ forcats 0.5.1
+## -- Attaching packages --------------------------------------- tidyverse 1.3.1 --
 ```
 
 ```
-## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+## v ggplot2 3.3.5     v purrr   0.3.4
+## v tibble  3.1.6     v dplyr   1.0.7
+## v tidyr   1.1.4     v stringr 1.4.0
+## v readr   2.1.1     v forcats 0.5.1
+```
+
+```
+## Warning: package 'ggplot2' was built under R version 4.0.5
+```
+
+```
+## Warning: package 'tibble' was built under R version 4.0.5
+```
+
+```
+## Warning: package 'tidyr' was built under R version 4.0.5
+```
+
+```
+## Warning: package 'readr' was built under R version 4.0.5
+```
+
+```
+## Warning: package 'dplyr' was built under R version 4.0.5
+```
+
+```
+## Warning: package 'forcats' was built under R version 4.0.5
+```
+
+```
+## -- Conflicts ------------------------------------------ tidyverse_conflicts() --
 ## x dplyr::filter() masks stats::filter()
 ## x dplyr::lag()    masks stats::lag()
 ```
 
 ```r
 library(palmerpenguins)
+```
+
+```
+## Warning: package 'palmerpenguins' was built under R version 4.0.5
 ```
 
 
