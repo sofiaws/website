@@ -1,6 +1,6 @@
 ---
-title: "Sofia Scatolin, PhD Student"
-subtitle: "Curriculum Vitae"
+title: "Contact"
+subtitle: "Contact me for any questions, collaborations or feedback!"
 excerpt: "This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the form front matter."
 date: 2019-07-01
 author: "Sofia Scatolin"
@@ -11,9 +11,13 @@ categories:
   - CV
 layout: single
 links:
-- icon: download
+- icon: envelope
   icon_pack: fa
-  name: download cv in pdf
+  name: email me at sofia.weidlescatolin@ru.nl
+  url: sofia.weidlescatolin@ru.nl
+- icon: twitter
+  icon_pack: fa
+  name: dm me at @Sofia_Scatolin
   url: https://bakeoff.netlify.com/
 ---
 

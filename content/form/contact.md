@@ -1,7 +1,7 @@
 ---
 title: Contact
 name: Contact Us Form
-description: "Contact me through my social media below or email on the right"
+description: "Message me for any collaborations, questions or feedback!"
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact
