@@ -1,5 +1,5 @@
 ---
-title: "Sofia Scatolin, PhD Student"
+title: "Sofia Scatolin, PhD Candidate"
 subtitle: "Curriculum Vitae"
 excerpt: "This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the form front matter."
 date: 2019-07-01
@@ -19,7 +19,7 @@ links:
 
 ### Education.
 
-- Ph.D. in Psychology, University of Zurich (Switzerland), 2026 (expected)
+- Ph.D. Psychology, University of Zurich (Switzerland), 2026 (expected)
 - M.Sc. cum laude in Behavioural Science, Radboud Univerity (Netherlands), 2022
 - B.Sc. in Psychology, Pontifical Catholic University of Paraná (Brazil), 2020
 
